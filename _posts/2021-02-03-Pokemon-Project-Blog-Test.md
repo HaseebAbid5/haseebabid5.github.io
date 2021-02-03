@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Pokemon Clone Project
+subtitle: A Journey Begins
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [Pokemon Clone, First Post]
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I remember being 3 years old. My dada took me to the library. "Pick anything you want and we'll take it home" he said to me as we walked in. And so I looked around for anything that would catch my eye. I found 3 creatures presented on a single VHS cover which has 4 episodes of the fairly new kids TV show Pokemon. Ever since then I have been in love.
 
 **Here is some bold text**
 
