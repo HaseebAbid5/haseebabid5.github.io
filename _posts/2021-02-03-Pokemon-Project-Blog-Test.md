@@ -3,7 +3,7 @@ layout: post
 title: Pokemon Clone Project
 subtitle: A Journey Begins
 tags: [Pokemon Clone, First Post]
-comments: false
+comments: true
 ---
 
 I remember being 3 years old. My dad took me to the library. "Pick anything you want and we'll take it home" he said to me as we walked in. And so I looked around for anything that would catch my eye. I found 3 creatures presented on a single VHS cover which had 4 episodes of the fairly new kids TV show Pokemon. Ever since then I have been in love.
