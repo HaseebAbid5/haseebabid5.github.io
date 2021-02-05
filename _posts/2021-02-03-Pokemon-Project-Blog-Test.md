@@ -11,7 +11,7 @@ I remember being 3 years old. My dad took me to the library. "Pick anything you 
 ![PokemonVHS](https://images-na.ssl-images-amazon.com/images/I/51H65JTMFCL._AC_.jpg){: .mx-auto.d-block :}
 <div align="center"><i>The exact VHS cover that caught my eye</i></div>
 
-As I grew older I started to indulge in more and more Pokemon branded activities. I remember it started with Pokemon candy where there would be a random pokemon stickers packaged in with each lollipop. I eventually started getting into the card game, and finally the video games as well. 
+As I grew older I started to indulge in more and more Pokemon branded activities. I remember it started with Pokémon candy where there would be a random pokemon stickers packaged in with each lollipop. I eventually started getting into the card game, and finally the video games as well. 
 
 However, over the years it has become painfully apparent to me that the franchise I saw so much heart and good in as a child was now turned into a mass marketing cash printing machine. Maybe it had always been like this and now I am just older and more aware of the world. Either way, it does not excuse the biggest offence Pokemon had hit me as well as many of their fans with. That offence? Well it's:
 
@@ -19,7 +19,7 @@ However, over the years it has become painfully apparent to me that the franchis
 
 ![PokemonSSLogo](https://preview.redd.it/h9pnmm3wlaj21.jpg?width=1280&format=pjpg&auto=webp&s=d109c8fca199198c043b2971de86292c47e4698d){: .mx-auto.d-block :}
 
-At the time of writing, Pokemon Sword and Shield are the latest titles in the mainline Pokemon series published by Nintendo and developed by Gamefreak. These two games were a huge dissapointment overall for a lot of the older fanbase of the series. The games featured less than ideal graphics with a very simplistic and basic narrative. 
+At the time of writing, Pokemon Sword and Shield are the latest titles in the mainline Pokemon series published by Nintendo and developed by Gamefreak. These two games were a huge disappointment overall for a lot of the older fanbase of the series. The games featured less than ideal graphics with a very simplistic and basic narrative. 
 
 ![PokemonSSGraphic](https://i.redd.it/bvgpi33z75531.jpg){: .mx-auto.d-block :}
 <div align="center"><i>Graphic Comparison: Sword and Shield (left) VS Breath of the Wild (right)</i></div>
