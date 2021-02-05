@@ -69,7 +69,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "haseebabid5.github.io/PortfolioSite"
+url-pretty: "Haseeb's Abid 2021"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
